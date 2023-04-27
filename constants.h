@@ -1,0 +1,4 @@
+#define KEY_MEMORY 199
+#define KEY_CELLS_SET 299
+#define KEY_PLAYERS_SET 399
+#define KEY_MASTER_SET 499
